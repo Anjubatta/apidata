@@ -1,0 +1,29 @@
+Git branch 
+
+abc
+\
+
+
+mkdir xy
+cd xy
+git init
+git remote add origin link
+
+
+
+//local changes
+
+git add -A
+git commit -am "text"
+git push origin master 
+
+
+Server
+mkdir html
+git init
+git remote add origin link 
+git pull origin master 
+
+ 
+
+
